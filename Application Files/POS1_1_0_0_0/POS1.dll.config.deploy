@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="DatabaseConnectionString" value="User Id=SYSTEM;Password=Welcome$123;Data Source=127.0.0.1:1522/xe" />
+		<add key="DatabaseHub" value="https://localhost:7219/databaseHub"/>
+		<add key="Theme" value="Dark" />
+		<add key="RefreshInterval" value="5000" />
+	</appSettings>
+</configuration>
